@@ -10,13 +10,11 @@ whitenoise==6.7.0
 dj-database-url==1.0.0
 python-dotenv==1.0.1
 
+requests
 numpy
 scikit-learn
 scipy
-torch
-sentence-transformers
-transformers
 pypdf
 joblib
 psycopg2-binary
-python-dotenv
+
